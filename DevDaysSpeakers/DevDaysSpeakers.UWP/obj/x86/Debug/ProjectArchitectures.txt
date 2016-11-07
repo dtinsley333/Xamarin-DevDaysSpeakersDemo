@@ -1,0 +1,1 @@
+C:\XamarinLearning\dev-days-labs-master\HandsOnLab\Start\DevDaysSpeakers\DevDaysSpeakers.UWP\DevDaysSpeakers.UWP.csproj;x86
